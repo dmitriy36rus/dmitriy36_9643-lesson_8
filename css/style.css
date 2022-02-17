@@ -36,6 +36,12 @@
 *:last-child{
     margin-bottom: 0px;
 }
+ul li:last-child{
+    margin-bottom: 0px;
+}
+div p:last-child{
+    margin-bottom: 0;
+}
 .wrapper{
 	overflow: hidden;
 	min-height: 100%;
@@ -290,6 +296,7 @@ h5{
 }
 .footer{
     text-align: center;
+    padding-bottom: 20px;
 }
 
 
